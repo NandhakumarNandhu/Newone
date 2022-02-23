@@ -9,5 +9,9 @@ public class Sample {
 		
 		System.out.println("manager");
 		
+		
+		System.out.println("tester1");
+		
+		System.out.println("tester1");
 	}
 }
