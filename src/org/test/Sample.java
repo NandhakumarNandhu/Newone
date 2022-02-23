@@ -9,9 +9,16 @@ public class Sample {
 		
 		System.out.println("manager");
 		
+     int a=23;
 		
+		
+		System.out.println(a);
+		
+		System.out.println("nandhu");
+
 		System.out.println("tester1");
 		
 		System.out.println("tester1");
+
 	}
 }
